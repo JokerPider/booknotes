@@ -1,0 +1,15 @@
+﻿安装说明
+Axhub Icons是一个可一键复制Iconfont图标到Axure内的Chrome扩展
+目前支持两种安装方式：
+
+一、Chrome 应用商店安装（推荐，需翻墙）
+在Chrome浏览器打开以下链接即可一键安装
+https://chrome.google.com/webstore/detail/axhub-assistant/cndglokmgjecikflojjieeeajbljgfae
+
+二、安装离线版
+待安装crx已经在本目录下，拖拽至Chrome扩展程序页面即可（可能会出现异常，方式一安装）
+详细安装演示请看以下文章
+https://jingyan.baidu.com/article/e5c39bf5cc39cc39d76033cd.html
+
+欢迎访问官网 https://axhub.im/icons 获取更多信息
+如有问题请联系公众号（axhubim）
